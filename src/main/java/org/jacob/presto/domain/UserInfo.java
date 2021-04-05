@@ -38,9 +38,8 @@ public class UserInfo {
     }
 
     public List<UserInfo> getUserInfo() throws SQLException {
-        List<UserInfo> userInfoList = new ArrayList<>();
-
-        return userInfoList;
+        // TO DO
+        return new ArrayList<>();
     }
 
 }

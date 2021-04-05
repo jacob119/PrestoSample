@@ -15,7 +15,6 @@ public class App {
     private static final String SOCKS_PROXY = "localhost:9080";
     private static final String USER = "user";
     private static final String QUERY = "select * from airline_delay_buckets limit 1 ";
-//            "select count(*) as count from airline_delay_buckets ";
 
     public static void main(String[] args) {
 
